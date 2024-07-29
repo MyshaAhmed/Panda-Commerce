@@ -24,3 +24,65 @@
     border-radius: 8px;
     padding: 9px 25px
 }
+
+/* catagory start==================================> */
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+}
+.cat1{
+    background-image: linear-gradient(90deg,orange,#F4C61C);
+    color: white;
+    border-radius: 10px;
+}
+.cat2{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border-radius: 8px;
+}
+.cat3{
+    background-image: linear-gradient(90deg,#4176FF,blue);
+    color: white;
+    border-radius: 8px;
+}
+
+.catagories img{
+    width: 100px;
+}
+/* catagory end==================================> */
+
+
+/* shoes section start=========================> */
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+/* shoes section end=========================> */
+
+
+/* backpack section start==============================> */
+
+.card-footer{
+    border: none;
+    background-color: white;
+}
+
+/* backpack section end==============================> */
+
+/* conatact form section start================================> */
+#contact{
+    height: 300px;
+}
+
+#contact h6{
+    color: gray;
+}
+/* conatact form section end================================> */
+
+
+/* footer start=============================================> */
+footer{
+    text-align: center;
+    color: dimgray;
+}
+/* footer end=============================================> */
